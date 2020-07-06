@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+ <head> 
+  <title>Testing</title> 
+  <meta name="viewport" content="width=device-width,initial-scale=1"> 
+ </head>
+ <body>
+  <h1 style="font-family:cursive ; color:blue"> The Monk Who sold His Ferrari </h1> 
+  <section> 
+   <p style="font-family:monospace"> You sow a thought, you reap an action. Reap an action, you sow a habit. Sow a habit, you reap a character. Sow a character, you reap your desitny.</p> 
+  </section> 
+  <img src="https://pixabay.com/photos/tree-sunset-amazing-beautiful-736885"> 
+  <a href="https://unsplash.com/photos/TRXSkmJb40c"></a> 
+  <embed src="https://images.app.goo.gl/oNjJNRX2cJbwnTzq9"> 
+  <button> Like</button> 
+  <br> 
+  <button> Dislike</button> 
+ </body>
+</html>
